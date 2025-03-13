@@ -22,7 +22,7 @@
         "PREFIX": {
             "description": "Prefix for bot commands",
             "value": "!",
-            "required": false
+            "required": true
         }
     },
     "formation": {
