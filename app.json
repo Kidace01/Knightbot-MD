@@ -21,7 +21,7 @@
         },
         "PREFIX": {
             "description": "Prefix for bot commands",
-            "value": ".",
+            "value": "!",
             "required": false
         }
     },
